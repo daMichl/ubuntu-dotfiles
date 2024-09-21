@@ -1,0 +1,4 @@
+-Xmx2048m
+-Dide.managed.by.toolbox=/home/mista/.local/share/JetBrains/Toolbox/bin/jetbrains-toolbox
+-Dtoolbox.notification.token=c40b2fc9-b9cd-429c-83bc-3bf48492e214
+-Dtoolbox.notification.portFile=/home/mista/.cache/JetBrains/Toolbox/ports/e2537e80-f69d-4cea-8a92-45bbd5137926.port

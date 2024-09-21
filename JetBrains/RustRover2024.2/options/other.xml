@@ -1,0 +1,56 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="13.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CRATES_IO_INDEX_LAST_UPDATE": "1726712898470",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "3",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.rust.2024.2.1.whatsnew": "true",
+    "RunOnceActivity.rust.enable.attach.dialog": "true",
+    "RunOnceActivity.rust.find.settings.fix": "true",
+    "RunOnceActivity.rust.first.ide.run": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "com.jetbrains.rust.LAST_UPDATE": "1726709289613",
+    "com.jetbrains.rust.LAST_VERSION": "242.21829.233",
+    "evlsprt3.242": "5",
+    "experimental.ui.used.version": "242.21829.233",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "ide.memory.adjusted": "true",
+    "ide.updates.previous.build.number": "RR-242.21829.233",
+    "input.method.disabler.muted": "true",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "RR-242.21829.233",
+    "tab_selection_count": "5",
+    "ts.lib.d.ts.version": "5.4.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/mista/RustroverProjects/swayer"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="swayer-history" project-path="/home/mista/RustroverProjects/swayer" last-access-time="1726709290090" />
+      <command-history-file filename="solo-key-history" project-path="/home/mista/RustroverProjects/solo-key" last-access-time="1726620392698" />
+    </command-history-files>
+  </component>
+</application>

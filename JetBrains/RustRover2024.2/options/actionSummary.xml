@@ -1,0 +1,79 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="6" l="1726623067232" />
+    </e>
+    <e n="$Undo">
+      <i c="8" l="1726628652081" />
+    </e>
+    <e n="CWMHostShowPopupAction">
+      <i c="2" l="1726290990607" />
+    </e>
+    <e n="Cargo.RefreshCargoProject">
+      <i c="1" l="1726290852223" />
+    </e>
+    <e n="Documentation.EditSource">
+      <i c="1" l="1726623611393" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="643" l="1726710266335" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="55" l="1726710254198" />
+    </e>
+    <e n="EditorCopy">
+      <i c="7" l="1726628097721" />
+    </e>
+    <e n="EditorCut">
+      <i c="1" l="1726626527175" />
+    </e>
+    <e n="EditorDelete">
+      <i c="77" l="1726628505744" />
+    </e>
+    <e n="EditorDeleteLine">
+      <i c="2" l="1726290994957" />
+    </e>
+    <e n="EditorDown">
+      <i c="420" l="1726628530582" />
+    </e>
+    <e n="EditorEnter">
+      <i c="23" l="1726710259416" />
+    </e>
+    <e n="EditorLeft">
+      <i c="183" l="1726628578817" />
+    </e>
+    <e n="EditorPaste">
+      <i c="17" l="1726628098676" />
+    </e>
+    <e n="EditorRight">
+      <i c="180" l="1726628581089" />
+    </e>
+    <e n="EditorTab">
+      <i c="1" l="1726623735131" />
+    </e>
+    <e n="EditorUp">
+      <i c="146" l="1726628517154" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="1" l="1726290847501" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1726620400056" />
+    </e>
+    <e n="SaveAll">
+      <i c="23" l="1726628544436" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1726626572240" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="3" l="1726620421560" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1726620398762" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1726289937553" />
+    </e>
+  </component>
+</application>

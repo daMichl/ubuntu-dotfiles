@@ -1,0 +1,38 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/RustroverProjects/solo-key">
+          <value>
+            <RecentProjectMetaInfo frameTitle="solo-key – What's New in RustRover" projectWorkspaceId="2m30x9EarxmwRyf1ZtvasiaFrFy">
+              <option name="activationTimestamp" value="1726620410440" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RR-242.21829.198" />
+              <option name="buildTimestamp" value="1725496800000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="1442" y="540" width="2556" height="1390" extendedState="6" />
+              <option name="productionCode" value="RR" />
+              <option name="projectOpenTimestamp" value="1726290195574" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RustroverProjects/swayer">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2mDoGLABCBXpuqktXyiVTFDHkDZ">
+              <option name="activationTimestamp" value="1726715055991" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RR-242.21829.233" />
+              <option name="buildTimestamp" value="1726549740000" />
+              <option name="productionCode" value="RR" />
+              <option name="projectOpenTimestamp" value="1726620410733" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/RustroverProjects/swayer" />
+    <option name="lastProjectLocation" value="$USER_HOME$/RustroverProjects" />
+  </component>
+</application>

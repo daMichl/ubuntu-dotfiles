@@ -1,0 +1,9 @@
+[Default Applications]
+x-scheme-handler/jetbrains=jetbrains-toolbox.desktop
+x-scheme-handler/fleet=jetbrains-fleet-7c9eefeb-9d08-49e5-bf54-7d1cedc8ebe9.desktop
+application/pdf=okular_okular.desktop
+inode/directory=thunar.desktop
+application/x-wayland-gnome-saved-search=thunar.desktop
+
+[Added Associations]
+application/pdf=okular_okular.desktop;
